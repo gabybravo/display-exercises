@@ -5,7 +5,7 @@ body {
 .lab {
 	background-color: #51FFD0;
 	color: #000000;
-	margin: 0;
+	margin: 20px;
 	padding-bottom: 30px;
 	display: block;
 	box-sizing: border-box;
@@ -14,17 +14,16 @@ body {
 .es {
 	background-color: #F5F214;
 	color: #000000;
-	margin: 0;
+	margin: 20px;
 	padding-bottom: 30px;
 	display: block;
 	box-sizing: border-box;
-	border: 1px solid #0E0D0D;
 }
 
 .trans {
 	background-color: #51FFD0;
 	color: #000000;
-	margin: 0;
+	margin: 20px;
 	padding-bottom: 30px;
 	display: block;
 	box-sizing: border-box;
