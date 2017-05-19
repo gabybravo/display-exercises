@@ -5,8 +5,8 @@ body {
 .lab {
 	background-color: #51FFD0;
 	color: #000000;
-	width: 100px;
-  	height: 30px;
+	width: 170px;
+  	height: 60px;
   	margin: 10px;
   	padding: 5px;
 	text-align: left;
@@ -17,8 +17,8 @@ body {
 .es {
 	background-color: #F5F214;
 	color: #000000;
-	width: 35px;
-  	height: 30px;
+	width: 170px;
+  	height: 60px;
   	margin: 10px;
   	padding: 5px;
 	text-align: left;
@@ -30,7 +30,7 @@ body {
 	background-color: #51FFD0;
 	color: #000000;
 	width: 170px;
-  	height: 30px;
+  	height: 60px;
   	margin: 10px;
   	padding: 5px;
 	text-align: left;
