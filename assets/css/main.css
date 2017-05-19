@@ -1,0 +1,31 @@
+body {
+	font-family: 'Lato', sans-serif;
+}
+
+.lab {
+	background-color: #51FFD0;
+	color: #000000;
+	margin: 0;
+	padding-bottom: 30px;
+	display: block;
+	box-sizing: border-box;
+}
+
+.es {
+	background-color: #F5F214;
+	color: #000000;
+	margin: 0;
+	padding-bottom: 30px;
+	display: block;
+	box-sizing: border-box;
+	border: 1px solid #0E0D0D;
+}
+
+.trans {
+	background-color: #51FFD0;
+	color: #000000;
+	margin: 0;
+	padding-bottom: 30px;
+	display: block;
+	box-sizing: border-box;
+}
